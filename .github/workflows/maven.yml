@@ -33,6 +33,6 @@ jobs:
       uses: docker/build-push-action@v3
       with:
           push: true
-          tags: praveendevops1337/gitworkflow:latest
+          tags: praveendevops1337/gitworkflow:latest 
       
           
